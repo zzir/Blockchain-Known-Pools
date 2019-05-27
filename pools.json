@@ -1,5 +1,13 @@
 {
     "coinbase_tags" : {
+        "Rawpool.com" : {
+            "name" : "Rawpool.com",
+            "link" : "https://www.rawpool.com/"
+        },
+        "/poolin.com/" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com"
+        },
         "SigmaPool.com" : {
             "name" : "SigmaPool.com",
             "link" : "https://www.sigmapool.com/"
@@ -273,6 +281,10 @@
             "link": "http://www.1hash.com"
         },
         "/HaoBTC/" : {
+            "name": "Bixin",
+            "link": "https://haopool.com/"
+        },
+        "/Bixin/" : {
             "name": "Bixin",
             "link": "https://haopool.com/"
         },
